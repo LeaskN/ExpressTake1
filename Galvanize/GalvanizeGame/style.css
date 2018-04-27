@@ -1,0 +1,17 @@
+body{
+ align-items: center;
+ background-color: grey;
+}
+.container{
+  width: 100%;
+}
+.button{
+  margin-left: auto;
+  margin-left: auto;
+  width: 50%;
+}
+.buttons{
+  margin-left: auto;
+  margin-left: auto;
+  width: 50%;
+}
